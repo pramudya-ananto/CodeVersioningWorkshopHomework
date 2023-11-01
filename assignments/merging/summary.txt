@@ -1,0 +1,1 @@
+Git merge is to combine changes from one branch into another
