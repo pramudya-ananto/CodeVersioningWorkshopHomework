@@ -1,1 +1,4 @@
 Git branch is a label for a line of development
+
+Git command to create a new branch : git branch
+
