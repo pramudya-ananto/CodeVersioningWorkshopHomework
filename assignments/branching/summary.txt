@@ -2,3 +2,4 @@ Git branch is a label for a line of development
 
 Git command to create a new branch : git branch
 
+Git command is used to switch to a different branch : git checkout
